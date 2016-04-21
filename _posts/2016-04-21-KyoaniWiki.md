@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "京阿尼大百科 Markdown Version"
+title:  "京阿尼大百科・改 (alpha)"
 date:   2016-04-21 20:14:26 +0800
 categories: anime
 ---
