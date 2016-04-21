@@ -2,7 +2,7 @@
 layout: post
 title:  "吹响！上低音号第11话：从“映像的原则”看胜负和心情的演出解析"
 date:   2016-04-21 13:53:26 +0800
-categories: jekyll update
+categories: anime
 ---
 
 **原作者：グダ**
