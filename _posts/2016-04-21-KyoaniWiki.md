@@ -12,7 +12,8 @@ categories: anime
 
 **Change Log:**
 
-2016-04-21 21:41 add contents of chapter 1  
+2016-04-22 10:45 add information of Full Metal Panic Fumoffu
+2016-04-21 21:41 add information of Kyoto Animation  
 2016-04-21 20:14 alpha version release
 
 ### 前言
