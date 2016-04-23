@@ -8,7 +8,7 @@ project: true
 
 # Change Log
 
-**2016-04-23**
+### 2016-04-23
 
 1. Fix the "Tag System" of the new theme.
 
@@ -25,7 +25,7 @@ project: true
 ![new links](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-3.png)
 <br>
 
-**2016-04-22**
+### 2016-04-22
 
 1. Test a new theme called Moon from GitHub. I forked it to fit my needs.  
 Thanks to TaylanTatli, the developer of Moon.
@@ -35,7 +35,7 @@ Thanks to TaylanTatli, the developer of Moon.
 ![new theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23.png)
 <br>
 
-**2016-04-21**
+### 2016-04-21
 
 1. Push an index.html that only display "hello world" onto GitHub. The site begins to become a website :)
 
@@ -50,7 +50,7 @@ Thanks to TaylanTatli, the developer of Moon.
 ![KyoaniWiki](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-22.png)
 <br>
 
-**2016-04-20**
+### 2016-04-20
 
 Start to learn how to build a site with GitHub Page. But doesn't succeed. The site is always 404.
 
