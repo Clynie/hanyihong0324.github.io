@@ -20,11 +20,17 @@ project: true
 
 5. Fix the bug of "site logo disappears when read post".
 
+6. Make background can FIT SCREEN AUTOMATICALLY!
+
+7. Change a BEAUTIFAL background!
+
 ![tag system](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-4.png)
 
 ![new links](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-3.png)
 
 ![logo display on phone](http://7xt9ka.com2.z0.glb.qiniucdn.com/S60423-192824.jpg)
+
+![BEAUTIFAL BACKGROUND!](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-5.jpg)
 <br>
 
 ### 2016-04-22
