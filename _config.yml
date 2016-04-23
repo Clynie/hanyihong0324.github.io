@@ -7,7 +7,7 @@ words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 locale:             en_US
-url:
+url:                hanyihong0324.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -25,7 +25,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   
+disqus_shortname:
 
 # Social
 # if you don't have any of social below, comment the line.
