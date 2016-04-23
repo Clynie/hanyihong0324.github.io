@@ -23,6 +23,7 @@ project: true
 ![tag system](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-4.png)
 
 ![new links](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-3.png)
+<br>
 
 **2016-04-22**
 
@@ -32,6 +33,7 @@ Thanks to TaylanTatli, the developer of Moon.
 2. Release the new theme.
 
 ![new theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23.png)
+<br>
 
 **2016-04-21**
 
@@ -46,6 +48,7 @@ Thanks to TaylanTatli, the developer of Moon.
 ![jekyll default theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-21-2.png)
 
 ![KyoaniWiki](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-22.png)
+<br>
 
 **2016-04-20**
 
