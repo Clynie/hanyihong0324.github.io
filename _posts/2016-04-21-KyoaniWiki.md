@@ -68,7 +68,7 @@ categories: anime
 
 * [五 知名京都动画作品二次创作整理](#5)
 
-![](http://img.yo9.com/699144b006a411e6beaf00163e000cde)
+![COME WITH ME](http://img.yo9.com/699144b006a411e6beaf00163e000cde)
 
 <br/>
 
