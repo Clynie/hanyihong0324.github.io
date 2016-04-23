@@ -30,7 +30,7 @@ project: true
 
 ![logo display on phone](http://7xt9ka.com2.z0.glb.qiniucdn.com/S60423-192824.jpg)
 
-![BEAUTIFAL BACKGROUND!](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-5.jpg)
+![BEAUTIFAL BACKGROUND!](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-5.png)
 <br>
 
 ### 2016-04-22
