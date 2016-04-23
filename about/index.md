@@ -7,7 +7,7 @@ date: 2016-03-21
 
 ## About This Blog
 
-This blog is a clone from [Mono](https://github.com/TaylanTatli/Moon), a jekyll theme on GitHub that was opened by MIT license.
+This blog is a clone from [Moon](https://github.com/TaylanTatli/Moon), a jekyll theme on GitHub that was opened by MIT license.
 
 Thanks to TaylanTatli!
 
