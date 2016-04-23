@@ -2,7 +2,7 @@
 layout: post
 title:  "京阿尼大百科・改 (alpha)"
 date:   2016-04-21 20:14:26 +0800
-categories: anime
+categories: [anime, chinese]
 ---
 
 *版权声明：本页面为京都动画圈・京蜜京蜜京吧的联动企划《京阿尼大百科》的Markdown版实验项目。  
