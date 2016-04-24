@@ -11,6 +11,10 @@ This blog is a clone from [Moon](https://github.com/TaylanTatli/Moon), a jekyll 
 
 Thanks to TaylanTatli, the developer of Moon.
 
+Compared to Moon, I changed some things to fit my needs. Details are here: <a href="/Progressing_Personal_Site/">Progressing Personal Site</a>.
+
+The source code of my site is on [GitHub](https://github.com/hanyihong0324/hanyihong0324.github.io)
+
 ## Main Topic of My Blog
 
 + Anime
