@@ -143,8 +143,6 @@ tags: [topic=anime, language=chinese]
 
 <h2 id="1.3">1.3 作品史</h2>
 
-<br>
-
 ### TV动画
 
 |作品名|类型|放送年份|
