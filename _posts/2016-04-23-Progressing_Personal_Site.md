@@ -10,7 +10,7 @@ project: true
 
 ### 2016-04-24
 
-1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline) And I keep the style of buttons(it is also like a link).
+1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline) And I keep the style of buttons(it is also like a link but their style is not changed).
 
 2. Fix the wrong behavior of "Back" button in project's post page.
 
