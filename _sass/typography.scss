@@ -107,6 +107,25 @@ a {
   }
 }
 
+// buttons
+b {
+  transition: color .4s;
+  color: $color_shark;
+  &:link {
+  	color: $color_shark;
+  }
+  &:visited {
+  	color: $color_tuatara;
+  }
+  &:hover {
+  	color: $red;
+  }
+  &:active {
+  	transition: color .3s;
+  	color: $maroon;
+  }
+}
+
 // pre and code
 pre, code {
 	font-family: $font2;
