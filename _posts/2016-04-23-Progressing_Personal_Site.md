@@ -8,6 +8,18 @@ project: true
 
 # Change Log
 
+### 2016-04-24
+
+1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline) And I keep the style of buttons(it is also like a link).
+
+2. Fix the wrong behavior of "Back" button in project's post page.
+
+3. Let tables have border.
+
+![wiki-like](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-24.png)
+
+![border](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-24-0.png)
+
 ### 2016-04-23
 
 1. Fix the "Tag System" of the new theme.
