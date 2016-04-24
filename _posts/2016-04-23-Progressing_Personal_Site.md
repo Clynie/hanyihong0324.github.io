@@ -24,13 +24,13 @@ project: true
 
 1. Fix the "Tag System" of the new theme.
 
-2. Fix behavior of some button.
+2. Fix behavior of some buttons.
 
 3. Add two new links to Zhihu and Bilibili in home page.
 
-4. Improve the display of site logo in hamburger menu for mobile devices.
+4. Improve the display of site logo in navigation bar for mobile devices.
 
-5. Fix the bug of "site logo disappears when read post".
+5. Fix the bug: site logo in navigation bar disappears when read post".
 
 6. Make background can FIT SCREEN AUTOMATICALLY!
 
@@ -50,7 +50,7 @@ project: true
 1. Test a new theme called Moon from GitHub. I forked it to fit my needs.  
 Thanks to TaylanTatli, the developer of Moon.
 
-2. Release the new theme.
+2. After test, release the new theme.
 
 ![new theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23.png)
 <br>
@@ -61,7 +61,7 @@ Thanks to TaylanTatli, the developer of Moon.
 
 2. Build jekyll succeed. It displays the default theme of jekyll.
 
-3. Post KyoaniWiki.
+3. Post KyoaniWiki, the main article now.
 
 ![hello world](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-21.png)
 
