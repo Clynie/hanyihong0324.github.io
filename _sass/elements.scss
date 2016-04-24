@@ -7,6 +7,9 @@
 	text-decoration: none;
 	background: $white;
 	color: $color_shark;
+	&:visited{
+		color: $color_tuatara;
+	}
 	&:hover {
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		color: $red;
@@ -168,7 +171,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
