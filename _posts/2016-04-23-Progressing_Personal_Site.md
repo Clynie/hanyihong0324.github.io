@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-for-project
 title:  "Progressing Personal Site"
 date:   2016-04-22
 excerpt: "Record the developing process of this site"
