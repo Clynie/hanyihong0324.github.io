@@ -25,7 +25,7 @@ QQ Browser for Android**
 
 <b style="color:red">WARNING: KEEP AWAY FROM WINDOWS 10!</b>
 <br>
-<b style="color:blue">For Windows 10 users: You should upgrade your OS to Windows 7, or try GREAT Linux:)</b>
+<b style="color:blue">For Windows 10 users: You should UPGRADE your OS to Windows 7, or try GREAT Linux:)</b>
 
 # Change Log
 
