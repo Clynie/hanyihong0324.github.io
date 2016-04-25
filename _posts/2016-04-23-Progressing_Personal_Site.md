@@ -36,7 +36,7 @@ QQ Browser for Android**
 
 2. Cancle the limit of max width so that article pages can fit high resolution screen.
 
-3. Change border radius of wrapper and container to 48px.
+3. Change border radius of wrapper and container to 48px. I think it looks KAWAII.
 
 ![wrapper](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25.png)
 
@@ -44,11 +44,13 @@ QQ Browser for Android**
 
 ### 2016-04-24
 
-1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline) And I keep the style of buttons(it is also like a link but their style is not changed).
+1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline)
 
-2. Fix the wrong behavior of "Back" button in project's post page.
+2. Keep style of buttons from the change of links.(link:black hover:red visited:black)
 
-3. Let tables have border.
+3. Fix the wrong behavior of "Back" button in project's post page.
+
+4. Let tables have border.
 
 ![wiki-like](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-24.png)
 
@@ -58,15 +60,15 @@ QQ Browser for Android**
 
 1. Fix the "Tag System" of the new theme.
 
-2. Fix behavior of some buttons.
+2. Fix behavior of some navigation buttons.
 
 3. Add two new links to Zhihu and Bilibili in home page.
 
 4. Improve the display of site logo in navigation bar for mobile devices.
 
-5. Fix the bug: site logo in navigation bar disappears when read post".
+5. Fix the bug: If user clicks navigation bar when reading article, the site logo in navigation bar will disappears.
 
-6. Make background can FIT SCREEN AUTOMATICALLY!
+6. Background picture can zoom to FIT SCREEN AUTOMATICALLY!
 
 7. Change a BEAUTIFAL background!
 
@@ -81,10 +83,8 @@ QQ Browser for Android**
 
 ### 2016-04-22
 
-1. Test a new theme called Moon from GitHub. I forked it to fit my needs.  
+Release a new theme called Moon from GitHub. I forked it to fit my needs.  
 Thanks to TaylanTatli, the developer of Moon.
-
-2. After test, release the new theme.
 
 ![new theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23.png)
 <br>
