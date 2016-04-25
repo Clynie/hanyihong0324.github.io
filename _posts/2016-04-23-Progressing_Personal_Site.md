@@ -34,7 +34,9 @@ QQ Browser for Android**
 
 1. Change width of wrapper to 71% of screen width(inspired by golden section).
 
-2. Change border radius of wrapper and container to 48px.
+2. Cancle the limit of max width so that article pages can fit high resolution screen.
+
+3. Change border radius of wrapper and container to 48px.
 
 ![wrapper](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25.png)
 
