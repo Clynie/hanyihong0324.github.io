@@ -12,6 +12,7 @@ It was confirmed that the change log 2016-04-24-2 is not effective on Windows 10
 
 **Internet Explorer 11 on Windows 10  
 Microsoft Edge on Windows 10  
+Microsoft Edge on Windows 10 Mobile  
 UC Browser on Windows 10  
 UC Browser for Android  
 QQ Browser for Android  
