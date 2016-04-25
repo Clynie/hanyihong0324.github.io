@@ -8,7 +8,7 @@ project: true
 
 # Compatilibity Test
 
-It was confirmed that the change log 2016-04-24-2 is not effective on Windows 10 and some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". These situations has been tested and found this bug.
+It was confirmed that the change log 2016-04-24-2 is not effective on Windows 10 and some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The bug will appears on:
 
 **Internet Explorer 11 on Windows 10  
 Microsoft Edge on Windows 10  
