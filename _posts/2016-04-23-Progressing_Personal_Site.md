@@ -12,8 +12,8 @@ It was confirmed that the change log 2016-04-24-2 is not effective on some brows
 
 **Internet Explorer 11 for PC  
 Microsoft Edge for PC  
-UC Browser for PC
-UC Browser for Android
+UC Browser for PC  
+UC Browser for Android  
 QQ Browser for Android  
 WeChat for Android**  
 
