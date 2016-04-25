@@ -8,22 +8,24 @@ project: true
 
 # Compatilibity Test
 
-It was confirmed that the change log 2016-04-24-2 is not effective on some browsers. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The browsers that with compatilibity problem are:
+It was confirmed that the change log 2016-04-24-2 is not effective on Windows 10 and some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". These situations has been tested and found this bug.
 
-**Internet Explorer 11 for PC  
-Microsoft Edge for PC  
-UC Browser for PC  
+**Internet Explorer 11 on Windows 10  
+Microsoft Edge on Windows 10  
+UC Browser on Windows 10  
 UC Browser for Android  
 QQ Browser for Android  
 WeChat for Android  
-Chromium WebView version under 40(ver 45+ is OK)**
+Chromium WebView version under 40(ver 45+ is OK)**  
 
 And there are some browsers can not render this site in correct way:
 
 **Internet Explorer 8  
 QQ Browser for Android**
 
-<b style="color:red">SO EVERYONE SHOULD USE FIREFOX AND CHROME!</b>
+<b style="color:red">WARNING: KEEP AWAY FROM WINDOWS 10!</b>
+<br>
+<b style="color:blue">For Windows 10 users: You should upgrade your OS to Windows 7, or try GREAT Linux:)</b>
 
 # Change Log
 
