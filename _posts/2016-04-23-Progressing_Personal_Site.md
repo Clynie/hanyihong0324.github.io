@@ -38,7 +38,7 @@ QQ Browser for Android**
 
 3. Change border radius of wrapper and container to 48px. I think it looks KAWAII.
 
-4. Zoom all font to 120% for making articles easier to be read.
+4. Zoom all font to 110% for making articles easier to be read.
 
 ![wrapper](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25.png)
 
