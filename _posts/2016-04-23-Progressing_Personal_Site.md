@@ -38,6 +38,8 @@ QQ Browser for Android**
 
 3. Change border radius of wrapper and container to 48px. I think it looks KAWAII.
 
+4. Zoom all font to 120% for making articles easier to be read.
+
 ![wrapper](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25.png)
 
 ![container](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25-0.png)
@@ -95,7 +97,7 @@ Thanks to TaylanTatli, the developer of Moon.
 
 2. Build jekyll succeed. It displays the default theme of jekyll.
 
-3. Post KyoaniWiki, the main article now.
+3. Post KyoaniWiki, the main article now. I will use kinds of elements such as table and picture in this post. In other words, this post is a mouse for experiment:)
 
 ![hello world](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-21.png)
 
