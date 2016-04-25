@@ -6,6 +6,24 @@ excerpt: "Record the developing process of this site"
 project: true
 ---
 
+# Compatilibity Test
+
+It was confirmed that the change log 2016-04-24-2 is not effective on some browsers. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The browsers that with compatilibity problem are:
+
+**Internet Explorer 11 for PC  
+Microsoft Edge for PC  
+UC Browser for PC
+UC Browser for Android
+QQ Browser for Android  
+WeChat for Android**  
+
+And there are some browsers can not render this site in correct way:
+
+**Internet Explorer 8  
+QQ Browser for Android**
+
+<b style="color:red">SO EVERYONE SHOULD USE FIREFOX AND CHROME!</b>
+
 # Change Log
 
 ### 2016-04-24
