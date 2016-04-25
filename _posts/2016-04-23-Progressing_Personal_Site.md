@@ -15,7 +15,8 @@ Microsoft Edge for PC
 UC Browser for PC  
 UC Browser for Android  
 QQ Browser for Android  
-WeChat for Android**  
+WeChat for Android  
+Chromium WebView ver under 40(ver 45+ is OK)**
 
 And there are some browsers can not render this site in correct way:
 
