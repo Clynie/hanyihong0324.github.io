@@ -8,12 +8,9 @@ project: true
 
 # Compatilibity Test
 
-It was confirmed that the change log 2016-04-24-2 is not effective on Windows 10 and some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The bug will appears on:
+It was confirmed that the change log 2016-04-24-2 is not effective on some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The bug will appears on:
 
-**Internet Explorer 11 on Windows 10  
-Microsoft Edge on Windows 10  
-Microsoft Edge on Windows 10 Mobile  
-UC Browser on Windows 10  
+**Microsoft Edge on Windows 10 Mobile  
 UC Browser for Android  
 QQ Browser for Android  
 WeChat for Android  
@@ -23,10 +20,6 @@ And there are some browsers can not render this site in correct way:
 
 **Internet Explorer 8  
 QQ Browser for Android**
-
-<b style="color:red">WARNING: KEEP AWAY FROM WINDOWS 10!</b>
-<br>
-<b style="color:blue">For Windows 10 users: You should UPGRADE your OS to Windows 7, or try GREAT Linux:)</b>
 
 # Change Log
 
