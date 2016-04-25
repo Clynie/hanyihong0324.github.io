@@ -71,14 +71,14 @@ body {
 }
 .container {
 	width: 36rem;
-	max-width: 550px;
+	max-width: 562px;//default value is 550px
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
 	background-color: $white;
 	color: $color_shark;
 	z-index: 1;
-	border-radius: 3px;
+	border-radius: 48px;//default value is 3px
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {

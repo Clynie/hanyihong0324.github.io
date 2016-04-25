@@ -30,6 +30,18 @@ QQ Browser for Android**
 
 # Change Log
 
+### 2016-04-25
+
+1. Change width of wrapper to 71% of screen width(inspired by golden section) and set the max width as 1358px(71% of 1920px).
+
+2. Change max width of container to 562px(29% of 1920px, inspired by golden section).
+
+2. Change border radius of wrapper and container to 48px.
+
+![wrapper](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25.png)
+
+![container](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25-0.png)
+
 ### 2016-04-24
 
 1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline) And I keep the style of buttons(it is also like a link but their style is not changed).
