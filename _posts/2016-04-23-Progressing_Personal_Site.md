@@ -6,8 +6,6 @@ excerpt: "Record the developing process of this site"
 project: true
 ---
 
-# Test git console
-
 # Compatilibity Test
 
 It was confirmed that the change log 2016-04-24-2 is not effective on some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The bug will appears on:
