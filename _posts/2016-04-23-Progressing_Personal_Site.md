@@ -6,8 +6,6 @@ excerpt: "Record the developing process of this site"
 project: true
 ---
 
-# test git scripts
-
 # Compatilibity Test
 
 It was confirmed that the change log 2016-04-24-2 is not effective on some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The bug will appears on:
@@ -24,6 +22,11 @@ And there are some browsers can not render this site in correct way:
 QQ Browser for Android**
 
 # Change Log
+
+### 2016-05-20
+
+1. Uninstall SmartGit, start to use git in CLI, and write a shell scripts to push article automatically.  
+The script is called git-auto-push.sh in root directory of this branch.
 
 ### 2016-04-25
 
