@@ -3,7 +3,7 @@ layout: post
 title:  "Linux Black Technology"
 date:   2016-05-20 21:39:26 +0800
 excerpt: "强行黑科技23333"
-tags: [topic=linux, language=english, origin=true]
+tags: [topic=linux, language=chinese, origin=true]
 ---
 
 ### PDF合并分割
