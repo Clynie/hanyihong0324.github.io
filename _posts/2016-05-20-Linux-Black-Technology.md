@@ -20,3 +20,17 @@ pdftk A=123.pdf 456.pdf input_pw A=password cat output 123456.pdf
 sudo gedit /etc/apt/sources.list
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 949045F5
 ```
+
+### 设置Grub2等待时间
+```
+sudo gedit /etc/default/grub
+sudo gedit /etc/default/grub
+```
+如果要设成0的话，打开/etc/grub.d/30_os-prober文件，找到以下代码
+```
+set timeout_style=menu
+if [ "\${timeout}" = 0 ]; then
+  set timeout=10
+fi
+```
+将10修改成0即可
