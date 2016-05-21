@@ -34,3 +34,33 @@ if [ "\${timeout}" = 0 ]; then
 fi
 ```
 将10修改成0即可
+
+### 系统启动时自动执行脚本
+/etc/rc.local这个文件是记录由用户定义的开机自动执行的命令，
+
+### Laptop Mode
+```
+sudo apt-get install laptop-mode-tools
+```
+/etc/laptop-mode/laptop-mode.conf里可设置AC供电是否启动laptop-mode
+
+1. **自动保存笔记本屏幕亮度**  
+编辑/etc/laptop-mode/conf.d/lcd-brightness.conf做如下设定：
+  + CONTROL_BRIGHTNESS=1
+  + BATT_BRIGHTNESS_COMMAND="echo [value]"
+  + LM_AC_BRIGHTNESS_COMMAND="echo [value]"
+  + NOLM_AC_BRIGHTNESS_COMMAND="echo [value]"
+
+2. **设置CPU调速器**
+编辑/etc/laptop-mode/conf.d/cpufreq.conf做如下设定：
+  + BATT_CPU_MAXFREQ=slowest
+  + BATT_CPU_GOVERNOR=powersave
+  + LM_AC_CPU_GOVERNOR=performance
+  + NOLM_AC_CPU_GOVERNOR=performance
+
+### 查看CPU实时频率
+```
+sudo apt-get install i7z i7z-gui
+sudo i7z-gui
+#or "sudo i7z" for cli
+```
