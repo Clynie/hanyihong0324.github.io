@@ -6,6 +6,7 @@ excerpt: "数字内容购买记录"
 tags: [topic=copyright, language=chinese, origin=true]
 ---
 # Bilibili承包 共3640人民币
+
 |项目|金额（人民币）|
 |---|----|
 |赤发白雪姬 第二季|120|
@@ -70,6 +71,7 @@ tags: [topic=copyright, language=chinese, origin=true]
 |天体的秩序|60|
 
 # Steam 共108人民币
+
 |项目|金额（人民币）|
 |----|-----------|
 |CS|60|
@@ -80,6 +82,7 @@ tags: [topic=copyright, language=chinese, origin=true]
 # Amazon中国Kindle电子书
 
 # 魅族音乐会员 共115人民币
+
 |项目|金额（人民币）|
 |----|-----------|
 |201407～201501|50|
@@ -91,6 +94,7 @@ tags: [topic=copyright, language=chinese, origin=true]
 # PSV游戏
 
 # Google Play Store日本区 共3000日元
+
 |项目|金额（日元）|
 |----|---------|
 |Air|1400|
