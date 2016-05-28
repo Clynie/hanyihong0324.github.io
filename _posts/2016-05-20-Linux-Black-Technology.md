@@ -64,3 +64,10 @@ sudo apt-get install i7z i7z-gui
 sudo i7z-gui
 #or "sudo i7z" for cli
 ```
+
+### Shell生成随机数
+```
+echo $((RANDOM%200+100))
+```
+生成100～200之间的随机数  
+PS:%是整除
