@@ -51,7 +51,7 @@ sudo apt-get install laptop-mode-tools
   + LM_AC_BRIGHTNESS_COMMAND="echo [value]"
   + NOLM_AC_BRIGHTNESS_COMMAND="echo [value]"
 
-2. **设置CPU调速器**
+2. **设置CPU调速器**  
 编辑/etc/laptop-mode/conf.d/cpufreq.conf做如下设定：
   + BATT_CPU_MAXFREQ=slowest
   + BATT_CPU_GOVERNOR=powersave
