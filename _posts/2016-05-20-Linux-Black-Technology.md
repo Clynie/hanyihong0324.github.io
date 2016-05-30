@@ -71,3 +71,8 @@ echo $((RANDOM%200+100))
 ```
 生成100～200之间的随机数  
 PS:%是整除
+
+### ImageMagick缩放图片
+```
+convert logo.png -resize 72x72 apple-icon-72x72.png
+```
