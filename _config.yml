@@ -4,7 +4,7 @@ bio:                '君に伝えたいこと　心に刻みたいこと'
 description:        "Han Yihong's blog site"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpeg'
 background:         'assets/img/background.jpg'
 locale:             en_US
 url:                'http://hanyihong0324.github.io'
