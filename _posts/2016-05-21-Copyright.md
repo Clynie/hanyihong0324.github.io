@@ -10,12 +10,13 @@ tags: [topic=copyright, language=chinese, origin=true]
 
 # 支持正版 空谈误国
 
-# Steam 共108人民币
+# Steam 共241人民币
 
 |项目|金额（人民币）|
 |----|-----------|
-|CS|60|
-|瘟疫公司|48|
+|Counter-Strike|60|
+|Plague Inc|48|
+|Heart of Iron|133|
 
 # Amazon日本Kindle版电子书 共16029円
 
