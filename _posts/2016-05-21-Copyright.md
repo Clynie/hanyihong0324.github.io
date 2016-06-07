@@ -14,7 +14,7 @@ tags: [topic=copyright, language=chinese, origin=true]
 |----|-----------|
 |Counter-Strike|60|
 |Plague Inc|48|
-|Heart of Iron|133|
+|Heart of Iron IV|133|
 
 # Amazon日本Kindle版电子书 共16029円
 
