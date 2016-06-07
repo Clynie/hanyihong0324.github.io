@@ -8,8 +8,6 @@ tags: [topic=copyright, language=chinese, origin=true]
 
 **本页面记录了本人自2013年起付费购买数字出版物及其它智力成果的主要项目，包括书籍、音乐、影视作品和软件**
 
-# 支持正版 空谈误国
-
 # Steam 共241人民币
 
 |项目|金额（人民币）|
