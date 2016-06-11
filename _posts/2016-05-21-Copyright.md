@@ -3,7 +3,6 @@ layout: post
 title:  "正版化报告"
 date:   2016-05-21 19:10:26 +0800
 excerpt: "版权内容购买记录"
-tags: [topic=copyright, language=chinese, origin=true]
 ---
 
 **本页面记录了本人自2013年起付费购买数字出版物及其它智力成果的主要项目，包括书籍、音乐、影视作品和软件**
