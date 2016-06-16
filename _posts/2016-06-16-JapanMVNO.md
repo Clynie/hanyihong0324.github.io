@@ -51,7 +51,7 @@ excerpt: "日本主要虚拟运营商的价格对比"
 **UQ mobile** 500kbps ￥2680  
 **U-mobile** LTE使い放題 3天内超过1.2GB会限速 ￥2980  
 **U-mobile** LTE使い放題2 3天内超过1.2GB会限速 ￥2730  
-**b-mobile** 无限流量+蜜汁限速 ￥1980
-**ぷららモバイルLTE** 3Mbps ￥2760
+**b-mobile** 无限流量+蜜汁限速 ￥1980  
+**ぷららモバイルLTE** 3Mbps ￥2760  
 **ワイヤレスゲートWi-Fi+LTE** 3Mbps ￥2760  
 **DTI SIM** ￥2900
