@@ -75,3 +75,9 @@ PS:%是整除
 ```
 convert logo.png -resize 72x72 apple-icon-72x72.png
 ```
+
+### mdf转iso
+```
+sudo apt-get install iat
+iat Himanatsu.mdf Himanatsu.iso
+```
