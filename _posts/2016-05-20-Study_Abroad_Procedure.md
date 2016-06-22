@@ -5,6 +5,8 @@ date:   2016-05-20 20:25:26 +0800
 excerpt: "赴日留学相关手续"
 ---
 
+![](http://7xt9ka.com2.z0.glb.qiniucdn.com/Japan.png)
+
 # 学费汇款
 
 **时间：7月8日截止  
