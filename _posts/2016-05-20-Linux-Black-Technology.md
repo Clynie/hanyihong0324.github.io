@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Linux Black Technology"
+title:  "Live with Linux"
 date:   2016-05-20 21:39:26 +0800
-excerpt: "使用Linux系统过程中用到的一些功能和命令（强行黑科技23333）"
+excerpt: "使用Linux系统过程中用到的一些功能和命令，记在这里免得以后自己忘了还要重新上网查"
 ---
-
 ### PDF合并分割
 ```
 pdftk 123.pdf 456.pdf output 123456.pdf
@@ -80,4 +79,15 @@ convert logo.png -resize 72x72 apple-icon-72x72.png
 ```
 sudo apt-get install iat
 iat Himanatsu.mdf Himanatsu.iso
+```
+
+### 安装OpenCV
+下载源码解压，这里是OpenCV 3.1.0版本
+```
+cd opencv-3.1.0
+mkdir build
+cd build
+cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
+make -j4
+sudo make install
 ```
