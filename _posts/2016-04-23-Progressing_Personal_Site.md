@@ -23,6 +23,13 @@ QQ Browser for Android**
 
 # Change Log
 
+### 2016-06-30
+
+1. Make code block display code with monospace.
+
+In /_sass/variables.scss, I add a font variable called font3 and set it as monospace.  
+In /_sass/typography.scss, I change pre's and code's font family from font2 to font3.
+
 ### 2016-05-20
 
 1. Uninstall SmartGit, start to use git in CLI, and write a shell scripts to push article automatically.  
