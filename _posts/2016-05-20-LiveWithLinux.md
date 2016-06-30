@@ -83,6 +83,7 @@ iat Himanatsu.mdf Himanatsu.iso
 
 ### 安装OpenCV
 下载源码解压，这里是OpenCV 3.1.0版本
+
 ```
 cd opencv-3.1.0
 mkdir build
