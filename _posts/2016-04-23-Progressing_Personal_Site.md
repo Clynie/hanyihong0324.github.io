@@ -26,7 +26,8 @@ QQ Browser for Android**
 ### 2016-05-20
 
 1. Uninstall SmartGit, start to use git in CLI, and write a shell scripts to push article automatically.  
-The script's code is here:  
+The script's code is here:
+
 ```
 cd ~/hanyihong0324.github.io/
 git add *
