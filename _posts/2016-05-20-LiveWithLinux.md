@@ -80,18 +80,3 @@ convert logo.png -resize 72x72 apple-icon-72x72.png
 sudo apt-get install iat
 iat Himanatsu.mdf Himanatsu.iso
 ```
-
-### 安装OpenCV
-下载源码解压，这里是OpenCV 3.1.0版本
-
-```
-cd opencv-3.1.0
-mkdir build
-cd build
-cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
-make -j4
-sudo make install
-```
-参考链接：  
-[OpenCV: Installation in Linux](http://docs.opencv.org/3.1.0/d7/d9f/tutorial_linux_install.html)  
-[Installing OpenCV in Ubuntu for Python 3 | Cyan Infinite](http://cyaninfinite.com/tutorials/installing-opencv-in-ubuntu-for-python-3/)
