@@ -5,7 +5,7 @@ date:   2016-05-20 21:39:26 +0800
 excerpt: "使用Linux系统过程中用到的一些功能和命令，记在这里免得以后自己忘了还要重新上网查"
 ---
 ### PDF合并分割
-```
+```bash
 pdftk 123.pdf 456.pdf output 123456.pdf
 pdftk *.pdf output 123456.pdf
 pdftk A=123.pdf B=456.pdf cat A1-2 B4-5 output 1245.pdf
@@ -14,13 +14,13 @@ pdftk A=123.pdf 456.pdf input_pw A=password cat output 123456.pdf
 ```
 
 ### Debian使用PPA
-```
+```bash
 sudo gedit /etc/apt/sources.list
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 949045F5
 ```
 
 ### 设置Grub2等待时间
-```
+```bash
 sudo gedit /etc/default/grub
 sudo gedit /etc/default/grub
 ```
@@ -37,7 +37,7 @@ fi
 /etc/rc.local这个文件是记录由用户定义的开机自动执行的命令，
 
 ### Laptop Mode
-```
+```bash
 sudo apt-get install laptop-mode-tools
 ```
 /etc/laptop-mode/laptop-mode.conf里可设置AC供电是否启动laptop-mode
@@ -57,27 +57,27 @@ sudo apt-get install laptop-mode-tools
   + NOLM_AC_CPU_GOVERNOR=performance
 
 ### 查看CPU实时频率
-```
+```bash
 sudo apt-get install i7z i7z-gui
 sudo i7z-gui
 #or "sudo i7z" for cli
 ```
 
 ### Shell生成随机数
-```
+```bash
 echo $((RANDOM%200+100))
 ```
 生成100～200之间的随机数  
 PS:%是整除
 
 ### ImageMagick
-```
+```bash
 convert logo.png -resize 72x72 apple-icon-72x72.png
 convert *.jpg foo.pdf
 ```
 
 ### mdf转iso
-```
+```bash
 sudo apt-get install iat
 iat Himanatsu.mdf Himanatsu.iso
 ```
