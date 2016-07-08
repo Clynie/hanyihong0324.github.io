@@ -7,13 +7,15 @@ excerpt: "版权内容购买记录"
 
 **本页面记录了本人自2013年起付费购买数字出版物及其它智力成果的主要项目，包括书籍、音乐、影视作品和软件**
 
-# Steam 共241人民币
+# Steam 共340人民币
 
 |项目|金额（人民币）|
 |----|-----------|
 |Counter-Strike|60|
 |Plague Inc|48|
 |Heart of Iron IV|133|
+|Europa Universalis IV|62|
+|Sid Meier's Civilization V|37|
 
 # Amazon日本Kindle版电子书 共16029円
 
