@@ -17,6 +17,7 @@ pdftk A=123.pdf 456.pdf input_pw A=password cat output 123456.pdf
 1. 从luanchpad获取PPA地址和签名密钥  
 
 2. 编辑软件源配置文件 下载并验证签名密钥
+
 ```bash
 sudo gedit /etc/apt/sources.list
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 949045F5
