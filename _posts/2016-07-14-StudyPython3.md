@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: post-for-project
 title:  "Python3学习笔记"
 date:   2016-07-14 21:39:26 +0800
 excerpt: "学习Python3过程中的记录"
+project: true
 ---
 
 # Python3学习笔记
