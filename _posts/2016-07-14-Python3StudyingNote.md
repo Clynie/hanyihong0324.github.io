@@ -6,8 +6,11 @@ excerpt: "学习Python3过程中的记录"
 ---
 
 # Python3学习笔记
-***
+
+****
+
 ### 列表
+
 **创建列表**  
 
     a=["has", "sh", "sihd"] #Python中不区分单双引号
