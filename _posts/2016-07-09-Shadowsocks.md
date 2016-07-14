@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shadowsocks on Linux"
-date:   2016-05-20 21:39:26 +0800
+date:   2016-07-09 21:39:26 +0800
 excerpt: "连自己的翻墙梯子都没有那和咸鱼有什么区别"
 ---
 
