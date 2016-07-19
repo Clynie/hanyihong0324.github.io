@@ -38,7 +38,6 @@ convert $1 -resize 144x144 assets/img/favicons/apple-icon-144x144.png
 convert $1 -resize 72x72 assets/img/favicons/apple-icon-precomposed.png
 convert $1 assets/img/favicons/logo.png
 convert $1 assets/img/logo.png
-rm $1
 ```
 
 ### 2016-05-20
