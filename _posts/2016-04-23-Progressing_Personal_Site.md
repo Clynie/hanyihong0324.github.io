@@ -23,15 +23,32 @@ QQ Browser for Android**
 
 # Change Log
 
-### 2016-05-20
+### 2016-07-19
 
-1. Uninstall SmartGit, start to use git in CLI, and write a shell scripts to push article automatically.  
+1. Write a shell script to change profile logo.  
 The script's code is here:
 
+```bash
+#!/bin/bash
+convert $1 -resize 16x16 favicon.ico
+convert $1 -resize 32x32 favicon.png
+convert $1 -resize 72x72 assets/img/favicons/apple-icon-72x72.png
+convert $1 -resize 114x114 assets/img/favicons/apple-icon-114x114.png
+convert $1 -resize 144x144 assets/img/favicons/apple-icon-144x144.png
+convert $1 -resize 72x72 assets/img/favicons/apple-icon-precomposed.png
+convert $1 assets/img/favicons/logo.png
 ```
+
+### 2016-05-20
+
+1. Start to use git in CLI, and write a shell scripts to push article automatically.  
+The script's code is here:
+
+```bash
+#!/bin/bash
 cd ~/hanyihong0324.github.io/
 git add *
-git commit
+git commit -m "update"
 git push origin master
 ```
 
