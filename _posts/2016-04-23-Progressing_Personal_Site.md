@@ -6,21 +6,6 @@ excerpt: "Record the developing process of this site"
 project: true
 ---
 
-# Compatilibity Test
-
-It was confirmed that the change log 2016-04-24-2 is not effective on some mobile browser. The buttons' style is changed as "link:#0645AD visited:#0645AD hover:red". The bug will appears on:
-
-**Microsoft Edge on Windows 10 Mobile  
-UC Browser for Android  
-QQ Browser for Android  
-WeChat for Android  
-Chromium WebView version under 40(ver 45+ is OK)**
-
-And there are some browsers can not render this site in correct way:
-
-**Internet Explorer 8  
-QQ Browser for Android**
-
 # Change Log
 
 ### 2016-07-19
