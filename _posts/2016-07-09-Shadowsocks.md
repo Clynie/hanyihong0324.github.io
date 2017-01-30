@@ -106,7 +106,7 @@ Connection->Add->Manually
 + Password: a password used to encrypt transfer
 + Encryption Method: AES-256-CFB(same as Shadowsocks server's config on VPS)
 
-Setting complete. Enjoy!
+Setting complete.
 
 ### Note
 
