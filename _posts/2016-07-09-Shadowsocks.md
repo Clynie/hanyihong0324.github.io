@@ -117,3 +117,5 @@ Setting complete.
 ```
 ssserver -c /etc/shadowsocks/config.json
 ```
+
+'man ssserver' for more information about shadowsocks python port.
