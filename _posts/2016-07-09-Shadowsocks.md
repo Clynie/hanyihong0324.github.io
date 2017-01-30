@@ -9,12 +9,6 @@ excerpt: "连自己的翻墙梯子都没有那和咸鱼有什么区别"
 
 ****
 
-### First You Must Have a Server :)
-
-I recommend [LotuServer](http://www.lotuserver.com/) for Chinese people because this VPS company provide customer service with Chinese and support paying with Alipay. And its low-end service is really cheaper than other VPS provider. I'm using the Los Angeles server with 1 CPU core, 128MB RAM, 1GB hard disk, 1 IPv4 address for only 55CNY a year! I admit this server's performance is so weak but I just want a 7*24 Shadowsocks/OpenVPN server to go across GFW instead of run distributed computing. If you prefer more powerful server, just pay more for a better VPS or choose professional cloud server such as Amazon EC2 or Google App Engine.
-
-BTW, I'm runing Debian 8 on my VPS, same as my laptop.
-
 ### Install Shadowsocks on VPS
 
 Normally, we should install shadowsocks-libev from Debian's official repository, but the package is in unstable branch while I'm using stable. So I install it from a unofficial repository.
@@ -118,3 +112,9 @@ Setting complete. Enjoy!
 
 1. Even if you set shadowsocks-qt5 on your Linux PC, you can't use Google immediately. You must set your Internet browser.
 2. How can I use Shadowsocks in all my system not only a browser?
+3. In Linode VPS, install package 'ssserver' to for a python port shadowsocks server.
+4. When use shadowsocks python port, the start command is:
+```
+ssserver -c /etc/shadowsocks/config.json
+```
+'man ssserver' for more information about shadowsocks python port.
