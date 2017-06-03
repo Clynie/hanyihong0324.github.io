@@ -122,7 +122,6 @@ Open your .bashrc or other .xxxshrc file and add this:
 #### Test the installation
 Open a Python3 IDLE and try to import caffe, if no error occurred......
 
-*Congratulations! Enjoy it!*
 ```
 ➜  caffe git:(master) python3
 Python 3.5.3 (default, Jan 19 2017, 14:11:04)
@@ -130,4 +129,10 @@ Python 3.5.3 (default, Jan 19 2017, 14:11:04)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import caffe
 >>>
+```
+*Congratulations! Enjoy it!*
+
+If python3 said can not found skimage, do this:
+```
+sudo apt install python3-skimage
 ```
