@@ -31,3 +31,8 @@ sudo kanji-config-updmap-sys auto
 4. Change "Engine" to "platex"
 5. Change "Opener" to "evince"
 6. Now you can open a .tex file with Atom and press Ctrl+Alt+B to build&open the PDF file.
+
+## Gallery
+![](http://7xt9ka.com2.z0.glb.qiniucdn.com/latex.png)
+
+![](http://7xt9ka.com2.z0.glb.qiniucdn.com/resume0.jpg)
