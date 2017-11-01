@@ -320,6 +320,7 @@ excerpt: "很久以前的大宇宙补番计划的延续"
 |2017年9月24日|SAKURA QUEST|
 |2017年10月2日|Gamers!!|
 |2017年10月7日|NEW GAME!!|
+|2017年10月15日|劇場版 Fate/stay night -Heaven’s Feel- Ⅰ.presage flower (第1章)|
 |2017年10月22日|小魔女学园|
 |2017年10月22日|Wake Up, Girls! 七人のアイドル|
 |2017年10月24日|Wake Up, Girls!|
