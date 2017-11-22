@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Genetic Algorithm
+title: 欧洲人养成计划
 date:   2017-11-12 15:34:32 +0900
-excerpt: 欧洲人养成计划
+excerpt: Genetic Algorithm
 ---
 # 欧洲人养成计划
 
