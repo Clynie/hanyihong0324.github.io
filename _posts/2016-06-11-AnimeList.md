@@ -376,3 +376,4 @@ excerpt: "很久以前的大宇宙补番计划的延续"
 |2018年2月4日|キノの旅 何かをするために -life goes on.-|2005|A.C.G.T.|
 |2018年2月4日|キノの旅 病気の国 -For You-|2007|A.C.G.T.|
 |2018年2月6日|キノの旅 -the Beautiful World- the Animated Series|2017|Lerche|
+|2018年3月4日|カーニバルファンタズム|2011|Lerche|
