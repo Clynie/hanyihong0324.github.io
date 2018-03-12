@@ -378,3 +378,4 @@ excerpt: "很久以前的大宇宙补番计划的延续"
 |2018年2月6日|キノの旅 -the Beautiful World- the Animated Series|2017|Lerche|
 |2018年3月4日|カーニバルファンタズム|2011|Lerche|
 |2018年3月6日|あかね色に染まる坂|2008|TNK|
+|2018年3月12日|A.I.C.O. -Incarnation-|2018|ボンズ|
