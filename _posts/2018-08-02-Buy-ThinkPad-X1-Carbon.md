@@ -18,7 +18,7 @@ excerpt: "学割とカスタマイズと活用しスペックと予算バラン�
 
 1. [このサイト](https://www3.lenovo.com/jp/ja/jpcepp60/deals/closed/education/)にアクセスして、最初は数回ジャンプすると思いますが、最後はこのようなサイトにたどり着けると思います：![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad00.png)そこのパスコード入力欄に「jpedumxix」を入力して「ログイン」をクリックしたら学割ストアのページに入れると思います：![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad01.png)
 2. 学割ストアのページをちょっと下にスクロールしたら「ThinkPad X1 Carbon」というモデルがあります：![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad03.png)そこの「購入する」とクリックするとこのモデルの公式ページに移ります：![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad04.png)
-3. 「直販モデルを購入」をクリックしたらページの下に自動スクロールします：![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad05.png)そこの「米沢生産モデル」**ではない**どれかを選んで、下の「カスタマイズ」をクリックします（ここは左から2番目のやつにする）、そしてカスタマイズページに移ります![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad06.png)
+3. 「直販モデルを購入」をクリックしたらページの下に自動スクロールします：![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad05.png)そこの「米沢生産モデル」**ではない**どれかを選んで（米沢生産モデルは日本語キーボードのみ）、下の「カスタマイズ」をクリックします（ここは左から2番目のやつにする）、そしてカスタマイズページに移ります![](http://7xt9ka.com2.z0.glb.qiniucdn.com/thinkpad06.png)
 4. カスタマイズページでは、以下のように変更します：
 
 | カスタマイズ項目           | 選択                                                 |
