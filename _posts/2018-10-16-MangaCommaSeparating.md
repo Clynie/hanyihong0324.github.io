@@ -8,7 +8,7 @@ project: true
 
 # コマ分割
 
-## かわいい手法ちゃんたち
+## 手法
 
 ### 【4コマ向】画素値のピークから算出する手法
 
@@ -41,3 +41,16 @@ Source: [nyaa式４コマ切り出しプログラムを作った](http://nyaa.ha
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/n/nyaaj/20161217/20161217222853.png)
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/n/nyaaj/20161217/20161217223523.png)
+
+### 前景背景判定(?)によるコマ分割
+
+Source: [GT-Scan by FujiFilm](https://www.fujifilm.co.jp/rd/report/rd057/pack/pdf/ff_rd057_010.pdf)
+
+二値化→前景背景判定→四角形検出→線検出→不要線除去→コマ境界線統合→コマ領域候補抽出→コマ確定
+
+効果はよさそうけど、前景背景判定の部分はまだ謎。
+
+## アイディア
+
+コマ割り（漫画の作る段階）から逆に考える
+　→ソフトウェアで生成したコマ割りに何か特徴があるかも、逆に利用すれば…
