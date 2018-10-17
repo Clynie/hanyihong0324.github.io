@@ -52,5 +52,5 @@ Source: [GT-Scan by FujiFilm](https://www.fujifilm.co.jp/rd/report/rd057/pack/pd
 
 ## アイディア
 
-コマ割り（漫画の作る段階）から逆に考える
+コマ割り（漫画の作る段階）から逆に考える  
 　→ソフトウェアで生成したコマ割りに何か特徴があるかも、逆に利用すれば…
