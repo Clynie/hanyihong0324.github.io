@@ -130,7 +130,7 @@ def fitness(route: list) -> float:
 
 
 # a debugging function to get average fitness of generation
-def gen_fitness_avr():
+def gen_fitness_avr(generation):
     fitness_sum = 0
     for i in range(population_size):
         fitness_sum += fitness(generation[i])
@@ -257,7 +257,7 @@ for i in range(iter_num):
     generation = gen_crossovered
     fitlist = fitness_list()
     graph_min.append(min(fitlist))
-    graph_avr.append(gen_fitness_avr())
+    graph_avr.append(gen_fitness_avr(generation))
 plt.plot(graph_min, '-', label='min')
 plt.plot(graph_avr, '-', label='avr')
 plt.xlabel('iteration')
@@ -364,7 +364,7 @@ def fitness(route: list) -> float:
 
 
 # a debugging function to get average fitness of generation
-def gen_fitness_avr():
+def gen_fitness_avr(generation):
     fitness_sum = 0
     for i in range(population_size):
         fitness_sum += fitness(generation[i])
@@ -483,7 +483,7 @@ for i in range(iter_num):
     generation = gen_crossovered
     fitlist = fitness_list()
     print(min(fitlist))
-    # print(gen_fitness_avr())
+    # print(gen_fitness_avr(generation))
 '''
 # graph test -> pass
 '''
@@ -503,7 +503,7 @@ for i in range(iter_num):
     generation = gen_crossovered
     fitlist = fitness_list()
     graph_min.append(min(fitlist))
-    graph_avr.append(gen_fitness_avr())
+    graph_avr.append(gen_fitness_avr(generation))
 plt.plot(graph_min, '-', label='min')
 plt.plot(graph_avr, '-', label='avr')
 plt.xlabel('iteration')
