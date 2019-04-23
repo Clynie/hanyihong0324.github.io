@@ -54,3 +54,8 @@ Source: [GT-Scan by FujiFilm](https://www.fujifilm.co.jp/rd/report/rd057/pack/pd
 
 コマ割り（漫画の作る段階）から逆に考える  
 　→ソフトウェアで生成したコマ割りに何か特徴があるかも、逆に利用すれば…
+
+## 製品
+
+- GT-Scan by FujiFilm
+- ミズハノメ by フーモア
