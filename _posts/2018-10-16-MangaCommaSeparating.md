@@ -59,3 +59,4 @@ Source: [GT-Scan by FujiFilm](https://www.fujifilm.co.jp/rd/report/rd057/pack/pd
 
 - GT-Scan by FujiFilm
 - ミズハノメ by フーモア
+- [GT-MangaAuthor?](http://www.chem-t.com/fax/images/tmp_file1_1341288222.pdf)
