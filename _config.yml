@@ -1,13 +1,13 @@
 # Site
-title:              Kan Kikou's Blog Site
-bio:                'Life, Anime, Japan, IT, and other interesting things'
-description:        "Han Yihong's blog site"
+title:              Kira's Blog Site
+bio:                'Data Scientist, Climatologist, IT, Animate, and other interesting things'
+description:        "Doctor X's blog site"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/background.jpg'
-locale:             ja_JP
-url:                'http://hanyihong0324.github.io'
+locale:             cn_CN
+url:                'http://clynie.github.io'
 
 # Jekyll
 permalink:          /:title/
@@ -37,10 +37,10 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              hanyihong0324@gmail.com
-twitter:            hanyihong0324
+email:              lyniedairce@163.com
+twitter:            D_Lynie
 #facebook:           username
-github:             hanyihong0324
+github:             Clynie
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:           username
 #xing:              username
@@ -56,8 +56,8 @@ github:             hanyihong0324
 #weibo:             username
 #flickr:            username
 #codepen:           username
-zhihu:              han-yi-hong-98
-bilibili:           1503460/
+#zhihu:              han-yi-hong-98
+#bilibili:           1503460/
 
 # Gems
 gems:

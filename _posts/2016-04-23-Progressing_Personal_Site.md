@@ -1,16 +1,25 @@
 ---
-layout: post-for-project
+layout: post-for-notes
 title:  "Progressing Personal Site"
-date:   2016-04-22
+date:   2020-02-11
 excerpt: "Record the developing process of this site"
-project: true
+notes: true
 ---
 
 # Change Log
 
-### 2016-07-19
+## 2020-02-11
 
-1. Write a shell script to change profile logo.  
+
+1. Clone the `jekyll` from [hanyihong0324.github.io](hanyihong0324.github.io);
+The script's code is here:
+
+```bash
+git clone https://github.com/Clynie/hanyihong0324.github.io.git Clynie.github.io
+```
+
+
+2. Use the shell script, developed by **hanyihong0324** to change profile logo.  
 The script's code is here:
 
 ```bash
@@ -25,97 +34,63 @@ convert $1 assets/img/favicons/logo.png
 convert $1 assets/img/logo.png
 ```
 
-### 2016-05-20
-
-1. Start to use git in CLI, and write a shell scripts to push article automatically.  
-The script's code is here:
+3. Add **Notes** in Contents:
 
 ```bash
-#!/bin/bash
-cd ~/hanyihong0324.github.io/
-git add *
-git commit -m "update"
-git push origin master
+#!/bin/zsh
+vi _data/navigation.yml
+```
+add these lines:
+```vim
+- title: Notes
+  url: /notes/
+```
+Then
+```bash
+#!/bin/zsh
+mkdir notes
+vi notes/index.md
+```
+add these lines:
+```md
+---
+layout: notes
+title: All Notes
+excerpt: "A List of notes for install"
+notes: true
+---
+```
+Create the `vi _layouts/post-for-notes.html`  
+For easy way you may:
+
+```bash
+#!/bin/zsh
+cp _layouts/post-for-project.html _layouts/post-for-notes.html
+```
+and relace the `project` instead `notes` in `_layouts/post-for-notes.html` 
+
+
+
+### Create note in Note Content:
+
+If you want create a note in Note Content:
+
+```bash
+#!/bin/zsh
+vi _posts/2016-04-23-Progressing_Personal_Site.md
+```
+and the First lines should be :
+```md
+---
+layout: post-for-notes
+title:  "Progressing Personal Site"
+date:   2020-02-11
+excerpt: "Record the developing process of this site"
+notes: true
+---
 ```
 
-### 2016-04-25
+Then Everything goes like markdown
 
-1. Change width of wrapper to 71% of screen width(inspired by golden section).
 
-2. Cancle the limit of max width so that article pages can fit high resolution screen.
 
-3. Change border radius of wrapper and container to 48px. I think it looks KAWAII.
-
-4. Zoom all font to 110% for making articles easier to be read.
-
-![wrapper](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25.png)
-
-![container](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-25-0.png)
-
-### 2016-04-24
-
-1. Set the font color and decoration of links that like Wikipedia.(link:#0645AD visited:#0B0080 hover:underline)
-
-2. Keep style of buttons from the change of links.(link:black hover:red visited:black)
-
-3. Fix the wrong behavior of "Back" button in project's post page.
-
-4. Let tables have border.
-
-![wiki-like](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-24.png)
-
-![border](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-24-0.png)
-
-### 2016-04-23
-
-1. Fix the "Tag System" of the new theme.
-
-2. Fix behavior of some navigation buttons.
-
-3. Add two new links to Zhihu and Bilibili in home page.
-
-4. Improve the display of site logo in navigation bar for mobile devices.
-
-5. Fix the bug: If user clicks navigation bar when reading article, the site logo in navigation bar will disappears.
-
-6. Background picture can zoom to FIT SCREEN AUTOMATICALLY!
-
-7. Change a BEAUTIFAL background!
-
-![tag system](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-4.png)
-
-![new links](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-3.png)
-
-![logo display on phone](http://7xt9ka.com2.z0.glb.qiniucdn.com/S60423-192824.jpg)
-
-![BEAUTIFAL BACKGROUND!](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23-5.png)
-<br>
-
-### 2016-04-22
-
-Release a new theme called Moon from GitHub. I forked it to fit my needs.  
-Thanks to TaylanTatli, the developer of Moon.
-
-![new theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-23.png)
-<br>
-
-### 2016-04-21
-
-1. Push an index.html that only display "hello world" onto GitHub. The site begins to become a website :)
-
-2. Build jekyll succeed. It displays the default theme of jekyll.
-
-3. Post KyoaniWiki, the main article now. I will use kinds of elements such as table and picture in this post. In other words, this post is a mouse for experiment:)
-
-![hello world](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-21.png)
-
-![jekyll default theme](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-21-2.png)
-
-![KyoaniWiki](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-22.png)
-<br>
-
-### 2016-04-20
-
-Start to learn how to build a site with GitHub Page. But doesn't succeed. The site is always 404.
-
-![404](http://7xt9ka.com2.z0.glb.qiniucdn.com/2016-04-20.png)
